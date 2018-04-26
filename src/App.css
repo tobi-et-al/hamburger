@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css?family=Amatic+SC:400,700');
+.App {
+    text-align: center;
+}
+
+img {
+    max-width: 100%;
+    display: block;
+    height: auto;
+}
